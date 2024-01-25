@@ -1,7 +1,7 @@
 import Link from "next/link";
 const Footer = () => {
   return (
-    <div className=" flex items-center justify-center ">
+    <div className=" max-sm:flex max-sm:items-center max-sm:justify-center flex items-center justify-center ">
       <div className="bg-white text-black w-[615px] rounded-t-[600px] h-[236px] absolute bottom-[-41px] flex flex-col  items-center">
         <h2 className="font-poppins mt-[43px]">Reservation Now</h2>
         <Link href={"Newpage"}>
