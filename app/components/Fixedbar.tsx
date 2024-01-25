@@ -1,6 +1,6 @@
 const Fixedbar = () => {
   return (
-    <div className="w-[414px] bg-white h-[84px] fixed bottom-0 flex justify-center items-center">
+    <div className="w-[414px] bg-white h-[84px] fixed bottom-0 flex justify-center items-center overflow-hidden">
       <div className="w-[361px] flex">
         <svg
           width="361"
