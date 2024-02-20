@@ -3,7 +3,7 @@ import Stats from "@/public/Stats.png";
 const Topbar = () => {
   return (
     <div>
-      <div className="flex items-center w-[374px] justify-between px-4 mt-4">
+      <div className="flex items-center max-sm:flex max-sm:items-center max-sm:w-full max-sm:justify-between  justify-between px-4 mt-4">
         <h1 className="font-bold flex justify-center">8:00</h1>{" "}
         <svg
           width="67"

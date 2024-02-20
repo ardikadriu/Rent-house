@@ -11,7 +11,7 @@ const Backgroundiamge = () => {
         backgroundRepeat: "no-repeat",
         position: "relative",
       }}
-      className="mt-[191px]"
+      className="mt-[191px] max-sm:w-full max-sm:h-screen"
     >
       <h1 className=" max-w-[268px] text-[40px] font-bold font-poppins absolute top-[-44px] left-[53px]">
         Rent a House for you.
